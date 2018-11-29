@@ -9,3 +9,6 @@ def load_page(url: str):
 def scrape_page(page_contents: str):
     #TODO: analyze the text
     pass
+
+def lalala():
+    pass
